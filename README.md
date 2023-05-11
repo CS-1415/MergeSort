@@ -1,4 +1,4 @@
-#MergeSort
+# MergeSort
 
 # Goals
 1. Practice coding **on your own** with TDD.
